@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div align="center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=30&pause=1000&color=C9ADD8&random=true&width=435&lines=welcome+to+%EA%B2%BD%EC%9B%A1's+github)](https://git.io/typing-svg)  
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&size=30&pause=1000&color=C9ADD8&random=true&width=435&lines=welcome+to+%EA%B2%BD%EC%9B%A1's+github)](https://git.io/typing-svg)
 
 
 <!--
