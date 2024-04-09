@@ -1,10 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=50&pause=1000&color=5B027A&random=false&width=650&height=90&lines=welcome+to+%EA%B2%BD%EC%9B%A1's+github)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=50&pause=1000&color=5B027A&random=false&width=435&lines=welcome+to+%EA%B2%BD%EC%9B%A1's+github)](https://git.io/typing-svg)
-
-
-
+##공사중
 
 
 <!--
